@@ -195,10 +195,6 @@ Mengembangkan program client-server menggunakan Python dan modul socket
 
 Memodifikasi kode secara personal dan menyesuaikan struktur logika komunikasi jaringan
 
-📎 Lampiran
-
-📁 Kode Program:🔗 Google Drive Folder
-
 📚 Daftar Pustaka
 
 Gunawan, R. (2007). Pemrograman socket dengan Python. IlmuKomputer.Com.
