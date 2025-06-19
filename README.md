@@ -197,8 +197,22 @@ client_socket.close()
 Skema TCP:
 ![image](https://github.com/user-attachments/assets/064a6485-1622-4106-b3ca-f690ce706f80)
 
+
+
+
+
+
+
+
 Skema UDP:
 ![image](https://github.com/user-attachments/assets/a4a006b7-a743-477a-a136-3c2dcbe17700)
+
+
+
+
+
+
+
 
 
 🛠️ Hasil Asistensi & Perubahan
